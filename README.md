@@ -12,7 +12,9 @@ Customizable admin panel framework made with by [Akveo team](https://github.com/
 * composer install
 * npm install
 * bower install
+* gulp build
 * gulp dev-release
+* php artisan jwt:generate
 * php artisan serve
 
 

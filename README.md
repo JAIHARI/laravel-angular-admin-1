@@ -2,13 +2,13 @@
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects. [Laravel](http://laravel.com/).
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects. [Laravel](https://github.com/laravel/laravel/).
 
 ## About BlurAdmin Angular admin panel front-end framework
-Customizable admin panel framework made with by [Akveo team](http://akveo.com/).
+Customizable admin panel framework made with by [Akveo team](https://github.com/akveo/blur-admin/).
 
 ## How to install
-* 1)git clone https://github.com/khaninejad/laravel-angular-admin.git
+* git clone https://github.com/khaninejad/laravel-angular-admin.git
 * composer install
 * npm install
 * bower install
